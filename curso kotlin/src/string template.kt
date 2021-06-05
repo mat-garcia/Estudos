@@ -7,3 +7,4 @@ fun main(){
 }
 
 fun soma(a: Int , b: Int) : Int = a + b
+fun Mult(a: Int, b: Int) : Int = a * b
